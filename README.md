@@ -16,3 +16,5 @@ Useful packages to build dashboards:
 [voila](https://voila.readthedocs.io/en/stable/using.html)
 
 [panel](https://panel.holoviz.org/)
+
+[bokeh](https://docs.bokeh.org/en/latest/index.html)
